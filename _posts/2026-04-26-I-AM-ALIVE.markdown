@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Substack but free (and cooler???)"
+date:   2026-04-26
+categories: misc
+---
+
+I often find people who write blogs to be somewhat conceited and self-serving.
+This is exactly why I am starting this site.
+
+Unlike a Substack, a Github pages website allows me to also make this more of a personal
+webpage in general, which just makes it more versatile. Similarly, I have zero intention of
+adding any paywalls to this, since it just makes life harder.
+
+I am starting this to do 2 things:
+  1. Be conceited and self-serving
+  2. Try and talk about my work?
+  3. Serve as a personal website
+
+We'll see where this takes us. I am sure that there is a relatively large likelihood this goes the way
+a lot of blogs do, where it dies after a few posts. We shall see.
+
+<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ -->
